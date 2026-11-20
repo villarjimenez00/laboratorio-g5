@@ -1,1 +1,2 @@
-# laboratorio-g5Horario: 8 a 20h
+# laboratorio-g5Horario: 
+Horario: Lunes a domingo: 10 a 22h
